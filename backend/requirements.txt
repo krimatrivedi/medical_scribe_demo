@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+sqlmodel
+psycopg2-binary
+openai-whisper
+python-multipart
+torch
+groq
